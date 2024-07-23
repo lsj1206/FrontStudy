@@ -5,7 +5,7 @@ function kakaoShare() {
 	const shareTitle = '십이간지 연애유형 결과';
 	const shareDesc = infoList[resultAlt].name;
 	const shareImage = url + 'img/image-' + resultAlt + '.png';
-	const shareURL = url + 'page.result-' + resultAlt + '.html';
+	const shareURL = url + 'page/result-' + resultAlt + '.html';
 
 	Kakao.Share.sendDefault({
 		objectType: 'feed',
