@@ -7,6 +7,14 @@
 	text-align: center;
 }
 
+#shareResult {
+	width: 85%;
+	background-color: azure;
+	border-radius: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+
 .kakao {
 	color: #191919;
 	background-color: #FEE500;
@@ -16,6 +24,19 @@
 }
 
 .kakao:hover, .kakao:focus {
+	color: #FEE500;
+	background-color: #191919;
+}
+
+.gohome {
+	color: #191919;
+	background-color: #FEE500;
+	font-size: 18px;
+	border: 0;
+	border-radius: 20px;
+}
+
+.gohome:hover, .gohome:focus {
 	color: #FEE500;
 	background-color: #191919;
 }
