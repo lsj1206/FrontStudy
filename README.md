@@ -1,5 +1,5 @@
 ## Toy Project Repository
-1. [Project01](#Project01)
+1. [Project01](#Project01-십이간지연애유형)
 2. [.](#.)
 ---
 ### Project01 - 십이간지 연애유형
